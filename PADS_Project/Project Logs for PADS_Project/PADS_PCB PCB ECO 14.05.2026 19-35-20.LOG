@@ -1,0 +1,82 @@
+Added Component: Designator=C11(RES)
+Add component (AddParameter): Name = "Supplier"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "CL05B222JB5NNNC"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Header_3x1)
+Added Component: Designator=R1(RES)
+Added Component: Designator=R2(RES)
+Added Component: Designator=R3(RES)
+Added Component: Designator=R4(RES)
+Added Component: Designator=R5(RES)
+Added Component: Designator=R6(RES)
+Added Component: Designator=R7(RES)
+Added Component: Designator=R8(RES)
+Added Component: Designator=R9(RES)
+Added Component: Designator=R10(RES)
+Added Component: Designator=R11(RES)
+Added Component: Designator=R12(RES)
+Added Component: Designator=R13(RES)
+Added Component: Designator=R14(RES)
+Added Component: Designator=SW1(PTS820J20MPSMTRLFS)
+Added Component: Designator=U6(SON50P250X250X80-9N-D)
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Added Pin To Net: NetName=SBWTCK Pin=J2-1
+Added Pin To Net: NetName=SBWTDIO Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Added Pin To Net: NetName=PUR Pin=SW1-1
+Added Pin To Net: NetName=NetR8_1 Pin=SW1-2
+Added Pin To Net: NetName=SDA Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=ALERT Pin=U6-3
+Added Pin To Net: NetName=SCL Pin=U6-4
+Added Pin To Net: NetName=3V3 Pin=U6-5
+Added Pin To Net: NetName=RESET Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U6-9
+Added Member To Class: ClassName=PADS_Project Member=Component C11 2.2nF
+Added Member To Class: ClassName=PADS_Project Member=Component J2 Header_3x1
+Added Member To Class: ClassName=PADS_Project Member=Component R1 22
+Added Member To Class: ClassName=PADS_Project Member=Component R2 22
+Added Member To Class: ClassName=PADS_Project Member=Component R3 1M
+Added Member To Class: ClassName=PADS_Project Member=Component R4 1k5
+Added Member To Class: ClassName=PADS_Project Member=Component R5 100k
+Added Member To Class: ClassName=PADS_Project Member=Component R6 1k
+Added Member To Class: ClassName=PADS_Project Member=Component R7 47
+Added Member To Class: ClassName=PADS_Project Member=Component R8 110
+Added Member To Class: ClassName=PADS_Project Member=Component R9 10k
+Added Member To Class: ClassName=PADS_Project Member=Component R10 10k
+Added Member To Class: ClassName=PADS_Project Member=Component R11 10k
+Added Member To Class: ClassName=PADS_Project Member=Component R12 10k
+Added Member To Class: ClassName=PADS_Project Member=Component R13 1k
+Added Member To Class: ClassName=PADS_Project Member=Component R14 33k
+Added Member To Class: ClassName=PADS_Project Member=Component SW1 PTS820 J20M SMTR LFS
+Added Member To Class: ClassName=PADS_Project Member=Component U6 HDC3020DEF

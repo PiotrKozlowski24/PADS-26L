@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1005X55X25LL05T10 New Footprint=CAPC1005X55X25ML05T10
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1005X55X25LL05T10 New Footprint=CAPC1005X55X25ML05T10
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1005X55X25LL05T10 New Footprint=CAPC1005X55X25ML05T10
+Change Component Footprint: Designator=C12 Old Footprint=CAPC1005X55X25LL05T10 New Footprint=CAPC1005X55X25ML05T10
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1005X55X25LL05T10 New Footprint=CAPC1005X55X25ML05T10
+Change Component Footprint: Designator=C14 Old Footprint=CAPC1005X55X25LL05T10 New Footprint=CAPC1005X55X25ML05T10
+Change Component Footprint: Designator=C15 Old Footprint=FP-0402-L_1_0_0_05-W_0_5-IPC_C New Footprint=FP-0402-L_1_0_0_05-W_0_5-IPC_A
+Change Component Footprint: Designator=C16 Old Footprint=FP-0402-L_1_0_0_05-W_0_5-IPC_C New Footprint=FP-0402-L_1_0_0_05-W_0_5-IPC_A
+Change Component Footprint: Designator=C1 Old Footprint=FP-C0402-BB-MFG New Footprint=FP-C0402-BB-IPC_A
+Change Component Footprint: Designator=C2 Old Footprint=FP-C0402-BB-MFG New Footprint=FP-C0402-BB-IPC_A
+Change Component Footprint: Designator=C4 Old Footprint=FP-GRM155-0_2-IPC_B New Footprint=FP-GRM155-0_2-IPC_A
+Change Component Footprint: Designator=C9 Old Footprint=FP-GRM155-0_2-IPC_B New Footprint=FP-GRM155-0_2-IPC_A
